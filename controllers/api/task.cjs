@@ -1,5 +1,5 @@
 const Task = require('../../models/task.cjs');
-s
+
 module.exports = {
     index,
     edit,
