@@ -12,4 +12,3 @@ router.get('/check-token', ensureLoggedIn, usersCtrl.checkToken)
 
 
 module.exports = router
-x
