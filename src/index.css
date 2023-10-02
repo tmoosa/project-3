@@ -1,9 +1,9 @@
 :root {
-  --white: #FFFFFF;
-  --tan-1: #f6fbfb;
-  --tan-2: #dde3e7;
-  --tan-3: #d1dee2;
-  --tan-4: #aed1d3;
+  --white: #1f011a;
+  --tan-1: #1a0114;
+  --tan-2: #e40aaa;
+  --tan-3: #f109f5;
+  --tan-4: #de06c5;
   --blue: #007Ff7;
   --text-light: #968c84;
   --text-dark: #615954;
@@ -22,7 +22,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #d7f402;
+  background-color: #787575;
   padding: 2vmin;
   height: 100vh;
 }

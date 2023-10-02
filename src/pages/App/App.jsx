@@ -14,8 +14,6 @@ function App() {
           <>
             <NavBar user={user} setUser={setUser} />
             <Routes>
-            
-
             </Routes>
           </>
           :
