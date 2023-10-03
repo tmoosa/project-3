@@ -59,4 +59,3 @@ async function show(req, res) {
         res.status(400).json({ msg: e.message });
     }
 }
-s
